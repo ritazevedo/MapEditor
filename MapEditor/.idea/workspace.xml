@@ -1,34 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b43bbacb-f0a8-4ce2-971f-a125cae7e233" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../Season2/FileAnalyzer/FileAnalyzer.iml" afterDir="false" />
+    <list default="true" id="fc948ed8-d430-4b0a-bbac-111cc2676c1b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/MapEditor.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/lib.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/simple_graphics_0_2_1_SNAPSHOT.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MapEditor.iml" beforeDir="false" afterPath="$PROJECT_DIR$/MapEditor.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/MapEditor.jar" beforeDir="false" afterPath="$PROJECT_DIR$/build/MapEditor.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/org/codeforall/iorns/Cell/Cell.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/org/codeforall/iorns/Cell/Cell.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/org/codeforall/iorns/Cell/Player.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/org/codeforall/iorns/Cell/Player.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/org/codeforall/iorns/Grid.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/org/codeforall/iorns/Grid.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/org/codeforall/iorns/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/org/codeforall/iorns/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MapEditor/copy.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MapEditor/org/codeforall/iorns/Cell/Cell.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MapEditor/org/codeforall/iorns/Cell/Cell.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MapEditor/org/codeforall/iorns/Cell/Player.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MapEditor/org/codeforall/iorns/Cell/Player.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MapEditor/org/codeforall/iorns/EventHandler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MapEditor/org/codeforall/iorns/Grid.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MapEditor/org/codeforall/iorns/Grid.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MapEditor/org/codeforall/iorns/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MapEditor/org/codeforall/iorns/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MapEditor/org/codeforall/iorns/MapEditor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MapEditor/org/codeforall/iorns/Saver.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/copy.txt" beforeDir="false" afterPath="$PROJECT_DIR$/resources/copy.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/codeforall/iorns/Cell/Cell.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/codeforall/iorns/Cell/Cell.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/codeforall/iorns/Cell/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/codeforall/iorns/Cell/Player.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/codeforall/iorns/EventHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/codeforall/iorns/Utilities/EventHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/codeforall/iorns/Grid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/codeforall/iorns/Grid.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/codeforall/iorns/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/codeforall/iorns/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/codeforall/iorns/MapEditor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/codeforall/iorns/Utilities/MapEditor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/codeforall/iorns/Saver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/codeforall/iorns/Utilities/Saver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MapEditor.iml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,9 +17,15 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="2Xu6RUwK0mHpMKB1cArJjxQA5lQ" />
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2XucHMiYIV3JL0LxtmphFzSzndF" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -47,27 +34,18 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "vue.rearranger.settings.migration": "true"
+    "git-widget-placeholder": "main"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="b43bbacb-f0a8-4ce2-971f-a125cae7e233" name="Changes" comment="" />
-      <created>1699466609099</created>
+      <changelist id="fc948ed8-d430-4b0a-bbac-111cc2676c1b" name="Changes" comment="" />
+      <created>1699482316451</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1699466609099</updated>
-      <workItem from="1699466610226" duration="31000" />
+      <updated>1699482316451</updated>
     </task>
     <servers />
-  </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
   </component>
 </project>
