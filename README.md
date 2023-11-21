@@ -1,4 +1,4 @@
-# MapEditor
+# MapEditor 🎨
 
 ## Table of Contents
 - [Overview](#overview)
@@ -15,16 +15,18 @@ The MapEditor Project is a Java application that demonstrates various Java conce
 
 ## Features
 
-- Implements Java concepts such as event handling, composition, I/O streams, and more.
+- Implements Java concepts such as event handling, composition, I/O streams, among others.
 - Utilizes the SimpleGraphicGfx library for creating graphical user interfaces.
-- Allows users to navigate the canvas, change colors, clear cells and save/load drawings.
+- Enables users to navigate the canvas, change colors, clear cells and save/load drawings.
+- The cursor's color represents the currently selected paint color.
+- Clicking the color buttons twice resets the color to default.
 
 ---
 
 ## Commands
 
 - Use arrow keys to move the cursor ➡️ ⬆️ ⬅️ ⬇️
-- Press the space bar to paint cells
+- Press the space bar to paint cells (the default color is black) ⬛
 - Press 'P' to change the paint color to pink 🟪
 - Press 'B' to change the paint color to blue 🟦
 - Press 'G' to change the paint color to green 🟩
