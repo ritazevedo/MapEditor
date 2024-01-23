@@ -1,15 +1,9 @@
 # MapEditor 🎨
-
-## Table of Contents
-- [Overview](#overview)
-- [Features](#features)
-- [Commands](#commands)
-
----
+Welcome to **MapEditor**, the crossroads of Java fundamentals and graphic design ingenuity. Developers embark on a creative journey, dynamically painting cells in various colors. This project invites users to bring a unique coding canvas to life, showcasing the intersection of coding and artistic expression.
 
 ## Overview
 
-The MapEditor Project is a Java application that demonstrates various Java concepts while utilizing the SimpleGraphicGfx library. This project allows users to interactively move a cursor and paint cells in different colors. It serves as a hands-on exercise for developers looking to apply Java fundamentals in a graphical context.
+**MapEditor** is a Java application that offers developers an interactive platform to explore fundamental Java concepts within graphic design. Seamlessly integrated with the SimpleGraphicGfx library, this project provides a hands-on experience where users can creatively paint cells in a diverse array of colors.
 
 ---
 
@@ -23,7 +17,7 @@ The MapEditor Project is a Java application that demonstrates various Java conce
 
 ---
 
-## Commands
+## Controls
 
 - Use arrow keys to move the cursor ➡️ ⬆️ ⬅️ ⬇️
 - Press the space bar to paint cells (the default color is black) ⬛
